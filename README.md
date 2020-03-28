@@ -1,1 +1,1 @@
-# ngabluu
+$cd ngabluu
